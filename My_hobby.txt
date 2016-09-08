@@ -1,0 +1,26 @@
+<DOCTYPE html>
+
+<html>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hannah's Hobby</title>
+<link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+<h1>Hannah's Hobby</h1>
+
+<p>Ballet is not only one of my favorite hobbies. It is my lifestyle. bing.com/images/search?q=praying+mantis&view=detailv2&&id=5FC35955A6DB3BF2E6875748B6D11542BC44C085&selectedIndex=3&ccid=6QoTB8XW&simid=608014254645512687&thid=OIP.Me90a1307c5d600845287e078df6e4711o0&ajaxhist=0">maurice</a>.</p>
+
+<p>this is my good friend <a href="https://www.google.com/search?q=cameron+murr&safe=strict&biw=1034&bih=619&source=lnms&tbm=isch&sa=X&ved=0ahUKEwikhYCRzsvOAhXMPCYKHRcDAZIQ_AUICCgD#imgrc=5wlxiKgryD73lM%3A">mams<a/>.<p/>
+
+<img src="ballet dancer.jpg" alt="ballet dancer">
+
+
+</body>
+
+
+</html>
+
